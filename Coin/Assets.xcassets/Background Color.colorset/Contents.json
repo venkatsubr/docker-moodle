@@ -20,4 +20,6 @@
       "idiom" : "universal",
       "appearances" : [
         {
-          "appearance" : "luminosity
+          "appearance" : "luminosity",
+          "value" : "light"
+  
