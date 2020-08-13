@@ -42,4 +42,5 @@
           "value" : "dark"
         }
       ],
-      "col
+      "color" : {
+        "color-space" : "srgb",
