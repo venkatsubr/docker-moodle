@@ -8,4 +8,6 @@
       "idiom" : "universal",
       "color" : {
         "color-space" : "srgb",
-        "components"
+        "components" : {
+          "red" : "1.000",
+ 
