@@ -26,4 +26,5 @@
       ],
       "color" : {
         "color-space" : "srgb",
-        "com
+        "components" : {
+          "red" : 
