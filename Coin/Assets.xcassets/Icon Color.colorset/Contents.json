@@ -39,4 +39,7 @@
       "appearances" : [
         {
           "appearance" : "luminosity",
-          "value" : 
+          "value" : "dark"
+        }
+      ],
+   
