@@ -6,4 +6,5 @@
   "colors" : [
     {
       "idiom" : "universal",
-      "color" :
+      "color" : {
+        "color-space"
