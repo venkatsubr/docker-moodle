@@ -24,4 +24,5 @@
           "value" : "light"
         }
       ],
-      "color" 
+      "color" : {
+        "color-space" : 
