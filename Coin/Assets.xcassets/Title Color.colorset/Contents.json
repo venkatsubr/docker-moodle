@@ -25,4 +25,5 @@
         }
       ],
       "color" : {
-        "color-space" : 
+        "color-space" : "srgb",
+        "components" : {
