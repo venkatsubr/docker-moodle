@@ -39,3 +39,30 @@ extension CoinViewController: UIPickerViewDataSource {
 }
 
 //MARK: - UIPickerViewDelegate
+
+extension CoinViewController: UIPickerViewDelegate {
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+        return coinManager.currencyArray[row]
+    }
+
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+        let selectedCurrency = coinManager.currencyArray[row]
+        currencyLabel.text = selectedCurrency
+        coinManager.getCoinPrice(for: selectedCurrency)
+    }
+}
+
+//MARK: - CoinManagerDelegate
+
+extension CoinViewController: CoinManagerDelegate {
+    func didUpdatePrice(currensy: String, coinPrice: String) {
+        DispatchQueue.main.async {
+            self.bitcoinLabel.text = coinPrice
+            self.currencyLabel.text = currensy
+        }
+    }
+
+    func didFailWithError(error: Error) {
+        print(error)
+    }
+}
