@@ -8,4 +8,6 @@
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
-		<key>UIS
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UI
