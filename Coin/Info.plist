@@ -10,4 +10,6 @@
 		<false/>
 		<key>UISceneConfigurations</key>
 		<dict>
-			<key>UIWindowSceneSessionRoleApp
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dic
