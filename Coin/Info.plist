@@ -12,4 +12,5 @@
 		<dict>
 			<key>UIWindowSceneSessionRoleApplication</key>
 			<array>
-				<dic
+				<dict>
+					<key>UISceneConfigur
