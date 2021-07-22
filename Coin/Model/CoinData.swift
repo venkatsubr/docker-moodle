@@ -1,0 +1,3 @@
+//
+//  CoinData.swift
+//
