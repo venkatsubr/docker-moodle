@@ -2,4 +2,7 @@
 //  CoinManager.swift
 //  Coin
 //
-//  Created by a
+//  Created by admin on 18.04.2022.
+//
+
+imp
