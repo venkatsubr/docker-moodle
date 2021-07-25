@@ -5,4 +5,7 @@
 //  Created by admin on 18.04.2022.
 //
 
-import Foun
+import Foundation
+
+struct CoinData: Codable {
+
