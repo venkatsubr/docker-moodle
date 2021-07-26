@@ -8,4 +8,5 @@
 import Foundation
 
 protocol CoinManagerDelegate {
-    func didUpdatePrice(currensy: String,
+    func didUpdatePrice(currensy: String, coinPrice: String)
+    func didFail
