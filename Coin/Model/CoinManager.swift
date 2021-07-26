@@ -7,4 +7,5 @@
 
 import Foundation
 
-protocol Co
+protocol CoinManagerDelegate {
+    func di
