@@ -12,4 +12,6 @@ protocol CoinManagerDelegate {
     func didFailWithError(error:Error)
 }
 
-struct CoinM
+struct CoinManager {
+
+    let baseURL: Stri
