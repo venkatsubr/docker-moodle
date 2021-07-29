@@ -9,4 +9,7 @@ import Foundation
 
 protocol CoinManagerDelegate {
     func didUpdatePrice(currensy: String, coinPrice: String)
-    func didFail
+    func didFailWithError(error:Error)
+}
+
+struct CoinM
