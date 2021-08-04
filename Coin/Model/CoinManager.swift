@@ -14,4 +14,6 @@ protocol CoinManagerDelegate {
 
 struct CoinManager {
 
-    let baseURL: Stri
+    let baseURL: String
+    let apiKey: String
+    var del
