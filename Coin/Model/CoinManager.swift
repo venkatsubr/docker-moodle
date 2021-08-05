@@ -17,3 +17,5 @@ struct CoinManager {
     let baseURL: String
     let apiKey: String
     var delegate: CoinManagerDelegate?
+
+    let currencyArray = ["
