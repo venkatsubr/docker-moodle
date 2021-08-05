@@ -16,4 +16,4 @@ struct CoinManager {
 
     let baseURL: String
     let apiKey: String
-    var del
+    var delegate: CoinManagerDelegate?
