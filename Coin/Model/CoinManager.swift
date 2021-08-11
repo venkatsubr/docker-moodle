@@ -21,4 +21,5 @@ struct CoinManager {
     let currencyArray = ["AUD", "BRL","CAD","CNY","EUR","GBP","HKD","IDR","ILS","INR","JPY","MXN","NOK","NZD","PLN","RON","RUB","SEK","SGD","USD","ZAR"]
 
     init() {
-        self.apiKey = (Bundle.main.object(forInfoDictionaryKey: 
+        self.apiKey = (Bundle.main.object(forInfoDictionaryKey: "API_KEY") as? String)!
+        self.b
