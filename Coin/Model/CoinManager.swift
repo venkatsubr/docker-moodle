@@ -22,4 +22,4 @@ struct CoinManager {
 
     init() {
         self.apiKey = (Bundle.main.object(forInfoDictionaryKey: "API_KEY") as? String)!
-        self.b
+        self.baseURL = "https://rest.coinapi.io/
