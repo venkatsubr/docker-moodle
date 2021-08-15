@@ -25,4 +25,5 @@ struct CoinManager {
         self.baseURL = "https://rest.coinapi.io/v1/exchangerate/BTC"
     }
     
-    func getCoinPrice(for curre
+    func getCoinPrice(for currency: String) {
+        let urlSt
