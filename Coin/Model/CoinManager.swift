@@ -28,4 +28,4 @@ struct CoinManager {
     func getCoinPrice(for currency: String) {
         let urlString = "\(baseURL)/\(currency)?apikey=\(apiKey)"
         if let url = URL(string: urlString) {
-            let session = URL
+            let session = URLSession(configuration: .defau
