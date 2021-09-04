@@ -29,4 +29,5 @@ struct CoinManager {
         let urlString = "\(baseURL)/\(currency)?apikey=\(apiKey)"
         if let url = URL(string: urlString) {
             let session = URLSession(configuration: .default)
-            let task = session.dataTask(with: url) { data, respo
+            let task = session.dataTask(with: url) { data, response, error in
+                if erro
