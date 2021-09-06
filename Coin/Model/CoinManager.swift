@@ -31,4 +31,5 @@ struct CoinManager {
             let session = URLSession(configuration: .default)
             let task = session.dataTask(with: url) { data, response, error in
                 if error != nil {
-                    delegate?.didFailWithError(error: e
+                    delegate?.didFailWithError(error: error!)
+               
