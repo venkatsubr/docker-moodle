@@ -33,4 +33,5 @@ struct CoinManager {
                 if error != nil {
                     delegate?.didFailWithError(error: error!)
                     return
-              
+                }
+                if let
