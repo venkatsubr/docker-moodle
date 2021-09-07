@@ -34,4 +34,5 @@ struct CoinManager {
                     delegate?.didFailWithError(error: error!)
                     return
                 }
-                if let
+                if let saveData = data {
+        
