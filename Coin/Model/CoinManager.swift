@@ -35,4 +35,4 @@ struct CoinManager {
                     return
                 }
                 if let saveData = data {
-        
+                    if let coi
