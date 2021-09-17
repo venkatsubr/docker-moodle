@@ -36,4 +36,4 @@ struct CoinManager {
                 }
                 if let saveData = data {
                     if let coinRate = parseJSON(saveData) {
-                  
+                        let priceStrin
