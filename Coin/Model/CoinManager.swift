@@ -37,4 +37,4 @@ struct CoinManager {
                 if let saveData = data {
                     if let coinRate = parseJSON(saveData) {
                         let priceString = String(format: "%.2f", coinRate)
-                    
+                        delegate?.didUpdatePr
