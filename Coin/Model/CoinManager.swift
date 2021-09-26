@@ -40,4 +40,5 @@ struct CoinManager {
                         delegate?.didUpdatePrice(currensy: currency, coinPrice: priceString)
                     }
                 }
- 
+            }
+            task.resum
