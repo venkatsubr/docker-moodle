@@ -45,4 +45,4 @@ struct CoinManager {
         }
     }
 
-    fun
+    func parseJSON(_ coinData: Data) -> 
