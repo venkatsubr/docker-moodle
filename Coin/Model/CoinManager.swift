@@ -48,4 +48,5 @@ struct CoinManager {
     func parseJSON(_ coinData: Data) -> Double? {
         let decoder = JSONDecoder()
         do {
-            let decodedData = try decoder.decode(Coin
+            let decodedData = try decoder.decode(CoinData.self, from: coinData)
+     
