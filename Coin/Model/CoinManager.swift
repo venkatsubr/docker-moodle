@@ -49,4 +49,5 @@ struct CoinManager {
         let decoder = JSONDecoder()
         do {
             let decodedData = try decoder.decode(CoinData.self, from: coinData)
-            let price = decodedData.rat
+            let price = decodedData.rate
+            retu
