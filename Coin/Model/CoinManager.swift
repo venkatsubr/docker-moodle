@@ -52,4 +52,5 @@ struct CoinManager {
             let price = decodedData.rate
             return price
         } catch {
-            print(err
+            print(error)
+            return nil
