@@ -54,3 +54,7 @@ struct CoinManager {
         } catch {
             print(error)
             return nil
+        }
+    }
+
+}
