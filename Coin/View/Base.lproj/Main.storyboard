@@ -6,4 +6,4 @@
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
-        <capability name="documents saved in the Xcode 8 form
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"
