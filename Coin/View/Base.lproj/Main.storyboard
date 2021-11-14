@@ -12,4 +12,4 @@
         <!--Coin View Controller-->
         <scene sceneID="FF3-1t-yZy">
             <objects>
-                <viewController id="DGQ-Th-WJA" customClass="CoinVi
+                <viewController id="DGQ-Th-WJA" customClass="CoinViewController" customModule
