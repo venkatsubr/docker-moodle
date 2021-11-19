@@ -13,4 +13,5 @@
         <scene sceneID="FF3-1t-yZy">
             <objects>
                 <viewController id="DGQ-Th-WJA" customClass="CoinViewController" customModule="Coin" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMo
+                    <view key="view" contentMode="scaleToFill" id="xAJ-mV-Q9s">
+ 
