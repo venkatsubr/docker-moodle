@@ -14,4 +14,5 @@
             <objects>
                 <viewController id="DGQ-Th-WJA" customClass="CoinViewController" customModule="Coin" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xAJ-mV-Q9s">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autor
