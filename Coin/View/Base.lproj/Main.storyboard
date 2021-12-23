@@ -24,4 +24,4 @@
                                         <rect key="frame" x="92" y="0.0" width="230" height="60"/>
                                         <constraints>
                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="230" id="Kxn-D6-gvO"/>
-                                            <constraint firstAt
+                                            <constraint firstAttribute="height" constant="60"
