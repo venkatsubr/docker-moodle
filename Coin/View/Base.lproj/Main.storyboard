@@ -29,4 +29,5 @@
                                         <fontDescription key="fontDescription" type="system" weight="thin" pointSize="50"/>
                                         <color key="textColor" name="Title Color"/>
                                         <nil key="highlightedColor"/>
-                
+                                    </label>
+ 
