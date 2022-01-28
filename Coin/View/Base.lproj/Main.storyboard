@@ -32,4 +32,5 @@
                                     </label>
                                     <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Z4h-Uo-FMJ" userLabel="Coin View">
                                         <rect key="frame" x="20" y="85" width="374" height="80"/>
-                              
+                                        <subviews>
+         
