@@ -40,4 +40,5 @@
                                                         <rect key="frame" x="0.0" y="0.5" width="80" height="79"/>
                                                         <color key="tintColor" name="Icon Color"/>
                                                         <constraints>
-                                                            <constraint firstAttribute="width" cons
+                                                            <constraint firstAttribute="width" constant="80" id="PG9-99-fco"/>
+  
