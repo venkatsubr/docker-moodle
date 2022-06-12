@@ -51,4 +51,4 @@
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="USD" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="36H-th-Swv">
                                                         <rect key="frame" x="313.5" y="25" width="50.5" height="30"/>
-                                                        <fontDescription key="fontDesc
+                                                        <fontDescription key="fontDescription" type="system" poi
