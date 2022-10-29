@@ -77,4 +77,5 @@
                                         </userDefinedRuntimeAttributes>
                                     </view>
                                 </subviews>
-                          
+                            </stackView>
+               
