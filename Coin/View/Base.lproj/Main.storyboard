@@ -78,4 +78,4 @@
                                     </view>
                                 </subviews>
                             </stackView>
-                            <pickerView contentMod
+                            <pickerView contentMode="scaleToFill" translatesAutor
