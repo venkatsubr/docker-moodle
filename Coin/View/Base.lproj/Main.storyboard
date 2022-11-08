@@ -79,4 +79,5 @@
                                 </subviews>
                             </stackView>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WX9-55-OpU">
-                                <rect key="frame" x="0.0" y="646" width="414" height="
+                                <rect key="frame" x="0.0" y="646" width="414" height="216"/>
+                     
