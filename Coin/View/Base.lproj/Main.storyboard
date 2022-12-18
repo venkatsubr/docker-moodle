@@ -90,4 +90,4 @@
                         <constraints>
                             <constraint firstItem="WX9-55-OpU" firstAttribute="bottom" secondItem="BYj-u4-zxB" secondAttribute="bottom" id="2mS-C8-4Ij"/>
                             <constraint firstItem="QKF-4I-PVi" firstAttribute="top" secondItem="BYj-u4-zxB" secondAttribute="top" constant="10" id="Iki-RG-Z8g"/>
-                            <constraint firstItem="BYj-u4-zxB" firstAttribute="traili
+                            <constraint firstItem="BYj-u4-zxB" firstAttribute="trailing" secondItem="QKF-4I-PVi" s
