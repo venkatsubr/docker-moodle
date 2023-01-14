@@ -97,4 +97,5 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="bitcoinLabel" destination="TW7-4T-FIQ" id="
+                        <outlet property="bitcoinLabel" destination="TW7-4T-FIQ" id="Cwh-bo-981"/>
+                
