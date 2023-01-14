@@ -98,4 +98,4 @@
                     </view>
                     <connections>
                         <outlet property="bitcoinLabel" destination="TW7-4T-FIQ" id="Cwh-bo-981"/>
-                
+                        <outlet property="currencyLabel
