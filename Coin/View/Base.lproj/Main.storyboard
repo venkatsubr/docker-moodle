@@ -101,4 +101,5 @@
                         <outlet property="currencyLabel" destination="36H-th-Swv" id="r6p-fu-jVt"/>
                         <outlet property="currencyPicker" destination="WX9-55-OpU" id="uEh-Wf-OI4"/>
                     </connections>
-      
+                </viewController>
+       
