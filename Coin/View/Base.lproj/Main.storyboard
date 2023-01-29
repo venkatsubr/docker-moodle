@@ -102,4 +102,4 @@
                         <outlet property="currencyPicker" destination="WX9-55-OpU" id="uEh-Wf-OI4"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder"
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8AC-sF-4Kh" sceneMemb
