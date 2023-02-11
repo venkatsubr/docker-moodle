@@ -108,4 +108,5 @@
         </scene>
     </scenes>
     <resources>
-        <image name="bitcoinsign.circle.fill" catalog="system" width="128" height
+        <image name="bitcoinsign.circle.fill" catalog="system" width="128" height="121"/>
+        <namedColo
