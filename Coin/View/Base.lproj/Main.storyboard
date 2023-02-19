@@ -111,4 +111,5 @@
         <image name="bitcoinsign.circle.fill" catalog="system" width="128" height="121"/>
         <namedColor name="Background Color">
             <color red="0.50599998235702515" green="0.92500001192092896" blue="0.92500001192092896" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        
+        </namedColor>
+        <namedCo
