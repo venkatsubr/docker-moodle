@@ -118,4 +118,5 @@
         <namedColor name="Title Color">
             <color red="0.18799999356269836" green="0.20800000429153442" blue="0.28600001335144043" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
-        <systemColor name="tertiaryLabelColo
+        <systemColor name="tertiaryLabelColor">
+            <color red="0.
