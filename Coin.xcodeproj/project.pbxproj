@@ -54,3 +54,31 @@
 		};
 		84459AF0280D4013006FE8FB /* Products */ = {
 			isa = PBXGroup;
+			children = (
+				84459AEF280D4013006FE8FB /* Coin.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84459AF1280D4013006FE8FB /* Coin */ = {
+			isa = PBXGroup;
+			children = (
+				84459AF2280D4013006FE8FB /* AppDelegate.swift */,
+				84459AF4280D4013006FE8FB /* SceneDelegate.swift */,
+				84459B0C280D4A3A006FE8FB /* Controller */,
+				84459B0B280D4A2E006FE8FB /* View */,
+				84459AFB280D4014006FE8FB /* Assets.xcassets */,
+				84459AFD280D4014006FE8FB /* LaunchScreen.storyboard */,
+				84459B00280D4014006FE8FB /* Info.plist */,
+				84459B0A280D4A26006FE8FB /* Model */,
+			);
+			path = Coin;
+			sourceTree = "<group>";
+		};
+		84459B0A280D4A26006FE8FB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				84459B08280D4A1A006FE8FB /* CoinManager.swift */,
+				84459B0E280D8289006FE8FB /* CoinData.swift */,
+			);
+			path = Model;
