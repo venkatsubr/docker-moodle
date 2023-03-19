@@ -119,3 +119,36 @@
 			productName = Coin;
 			productReference = 84459AEF280D4013006FE8FB /* Coin.app */;
 			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84459AE7280D4013006FE8FB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					84459AEE280D4013006FE8FB = {
+						CreatedOnToolsVersion = 13.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 84459AEA280D4013006FE8FB /* Build configuration list for PBXProject "Coin" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84459AE6280D4013006FE8FB;
+			productRefGroup = 84459AF0280D4013006FE8FB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84459AEE280D4013006FE8FB /* Coin */,
+			);
+		};
+/* End PBXProject section */
