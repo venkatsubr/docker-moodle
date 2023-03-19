@@ -82,3 +82,40 @@
 				84459B0E280D8289006FE8FB /* CoinData.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		84459B0B280D4A2E006FE8FB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				84459AF8280D4013006FE8FB /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		84459B0C280D4A3A006FE8FB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				84459AF6280D4013006FE8FB /* CoinViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84459AEE280D4013006FE8FB /* Coin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84459B03280D4014006FE8FB /* Build configuration list for PBXNativeTarget "Coin" */;
+			buildPhases = (
+				84459AEB280D4013006FE8FB /* Sources */,
+				84459AEC280D4013006FE8FB /* Frameworks */,
+				84459AED280D4013006FE8FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Coin;
+			productName = Coin;
+			productReference = 84459AEF280D4013006FE8FB /* Coin.app */;
+			productType = "com.apple.product-type.application";
