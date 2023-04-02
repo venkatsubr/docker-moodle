@@ -2,4 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      lo
+      location = "self:">
+   </FileRef>
+</Worksp
