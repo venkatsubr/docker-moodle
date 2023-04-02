@@ -392,3 +392,9 @@
 				84459B05280D4014006FE8FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84459AE7280D4013006FE8FB /* Project object */;
+}
